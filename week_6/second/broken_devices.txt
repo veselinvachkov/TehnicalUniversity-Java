@@ -1,0 +1,2 @@
+Iphone, XR, 1450.0, Display not working, 2
+Iphone, 6S, 650.0, camera, 5
